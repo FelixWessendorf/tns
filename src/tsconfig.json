@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "../build",
+    "target": "ES6",
+    "module": "commonjs",
+    "typeRoots": ["typings"],
+    "newLine": "lf",
+    "experimentalDecorators": true
+  }
+}
